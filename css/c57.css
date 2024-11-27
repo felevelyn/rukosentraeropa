@@ -1,0 +1,56 @@
+.button {
+    text-align: center;
+    align-items: center;
+    justify-content: center; 
+    margin: 20px;     
+    
+   
+}
+button:hover {
+    background-color: rgb(70, 149, 160);
+  
+}
+ 
+   
+  
+   button {
+    height: 50px;
+    width: 100px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgray;
+    outline: none;
+    
+    
+
+    
+   }
+body {
+background-image: url(../foto\ c57.png );
+background-repeat: no-repeat;
+background-size: cover;
+color: white;
+text-shadow: 2px 2px #14010186;
+font-family:Georgia, 'Times New Roman', Times, serif;
+margin: 170px;
+}
+
+.videoc57:link {
+    color: hsla(66, 100%, 73%);
+    font-size: 45px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    
+}
+
+.videoc57:visited {
+    color: hsla(51, 94%, 50%, 0.836);
+}
+
+.videoc57:hover {
+    color: rgb(252, 47, 20);
+}
+
+.videoc57:active {
+    color: white;
+}
